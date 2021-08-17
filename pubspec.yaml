@@ -9,9 +9,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-#Colocamos aqui um package 'dio', porém a versão igual o sdk
-#porque esse package vai funcionar nessas versoes, para nao dar incompatibilidade de código
-  dio: ">=4.0.0"
+  dio: ^4.0.0
   flutter:
     sdk: flutter
 
