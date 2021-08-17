@@ -1,8 +1,9 @@
 name: cep_search
 #podemos alterar aqui
 description: Package para procurar cep.
-version: 0.0.1
-homepage: null
+version: 1.0.0
+author: Vitor Brussolo Zerbato
+homepage: https://github.com/CadisRaziel/cep_search_package
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
